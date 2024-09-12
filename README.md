@@ -1,1 +1,1 @@
-Leet code ที่ใช้เวลาทำเกิน 30 นาที
+LeetCode problem I solve
